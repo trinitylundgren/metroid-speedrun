@@ -20,6 +20,8 @@ This will build and launch the game. From there, select your difficulty level, e
 
 ![Crateria](img/crateria.png)
 
+Will you save the animals or save the frames? Choose wisely.
+
 ## Authors
 
 * **Trinity Lundgren** - [trinitylundgren](https://github.com/trinitylundgren)
